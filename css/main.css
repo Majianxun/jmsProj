@@ -1,0 +1,62 @@
+body {	
+	margin: 0 auto;
+	width:780px;
+}
+li{
+	list-style: none outside none;
+}
+.g_fl{float: left;
+margin:-0 0;}
+
+
+.widget-coolsite{  
+	overflow: hidden;
+	}
+.liEven {
+    background: none repeat scroll 0 0 #F0F8FF;
+}
+.liOdd {
+    background: none repeat scroll 0 0 #AFEEEE;
+}
+.layout-coolsite .layout-inner {
+    background: none repeat scroll 0 0 #FFFFFF;
+}
+.layout-coolsite {
+    border-color: #59ACFF;
+    border-radius: 8px 8px 8px 8px;
+    border-style: solid;
+    border-width: 2px;
+   
+}
+.widget-coolsite .groups Li{
+    clear: both;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 2px;
+    text-align: center;
+	margin-left:-40px;
+}
+.liEven {
+    background: none repeat scroll 0 0 #F0F8FF;
+}
+.liOdd {
+    background: none repeat scroll 0 0 #AFEEEE;
+}
+.layout-coolsite .layout-inner {
+    background: none repeat scroll 0 0 #FFFFFF;
+}
+.widget-coolsite LI A {
+    padding: 0 7px;
+}
+A:link {
+    color: #000000;
+    line-height: 180%;
+    text-decoration: none;
+}
+.groupstitle
+{
+    background: none repeat scroll 0 0 #F0F0F0;
+    color: #6E1F2A;
+    font-weight: bold;
+    margin-left: -40px;
+}
